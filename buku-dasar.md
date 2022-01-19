@@ -1,14 +1,14 @@
-# Modul Basic PHP
+# Modul Dasar PHP
 
 # Apa itu PHP?
 
-PHP adalah singkatan dari (`Hypertext Preprocessor`) yaitu sebuah bahasa pemrograman bersifat `open-source` yang secara khusus dibuat untuk keperluan pengembangan web dan juga bisa digabungkan dengan HTML. Namun PHP juga dapat memenuhi kebutuhan lain yang memerlukan scripting, Seperti perhitungan cepat, algoritma dan lainya.
+PHP adalah singkatan dari (`Hypertext Preprocessor`) yaitu sebuah bahasa pemrograman bersifat `open-source` yang secara khusus dibuat untuk keperluan pengembangan web yang mana secara umum bisa digabungkan dengan HTML. Namun PHP juga dapat memenuhi kebutuhan lain yang memerlukan scripting, seperti perhitungan cepat, otomasi dan lainya.
 
 
 
 ## Apa yang bisa dilakukan PHP?
 
-Apa pun. PHP utamanya berfokus pada pemrosesan sisi server, sehingga Anda dapat melakukan apa saja yang bisa dilakukan oleh program CGI lainnya, seperti mendapatkan data dari form, menghasilkan konten halaman yang dinamis, atau mengirim dan menerima cookie. Tetapi PHP dapat melakukan lebih banyak lagi.
+Apa pun, PHP utamanya berfokus pada pemrosesan sisi server, sehingga Anda dapat melakukan apa saja yang bisa dilakukan oleh program CGI lainnya, seperti mendapatkan data dari form (client side HTML), menghasilkan konten halaman yang dinamis, atau mengirim, menerima dan merubah cookie. Tetapi PHP dapat melakukan lebih banyak lagi.
 
 
 
@@ -20,7 +20,7 @@ Apa pun. PHP utamanya berfokus pada pemrosesan sisi server, sehingga Anda dapat 
 
 ## Aturan menulis kode PHP
 
-Menulis kode PHP memiliki beberapa aturan, Aturan-aturan ini digunakan dan diimplementasikan pada banyak situasi. Berikut ini beberapa aturan peulisan kode PHP.
+Menulis kode PHP memiliki beberapa aturan, aturan-aturan ini digunakan dan diimplementasikan pada banyak situasi. Berikut ini beberapa aturan peulisan kode PHP.
 
 ### Basic syntax tag PHP
 
@@ -168,10 +168,10 @@ Setelah melakukan instalasi, Mari kita menulis program php pertama kita, Tidak a
 5. Simpan text tersebut.
 6. Lalu buka cmd dengan cara -> tekan logo windows + r
 7. Lalu ketikan cmd
-8. Akan terbuka sebuah command prompt 
+8. Akan terbuka sebuah command prompt (biasanya akan ada di path C:\Users\nama)
 9. Setelah itu ketikan `cd Desktop`
 10. Lalu ketikan `php aku.php`
-11. Lihat outputnya selamat belajar!
+11. Lihat outputnya, selamat belajar!
 
 
 
@@ -259,11 +259,11 @@ Adalah sebuah urutan karakter yang tidak mewakili dirinya sendiri ketika digunak
 
 | Escape   Sequence | Character   Represented |
 | ----------------- | ----------------------- |
-| \n                | New Line   |
-| \r                | Carriage Return        |
+| \n                | New Line                |
+| \r                | Carriage Return         |
 | \t                | Horizontal Tab          |
 | \v                | Vertical Tab            |
-| \\\            | Backslash               |
+| \\\               | Backslash               |
 
 
 
